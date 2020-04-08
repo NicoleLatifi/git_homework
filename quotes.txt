@@ -1,5 +1,3 @@
 "Fake it 'til you make it."
 
 "It was the best of times, it was the worst of times."
-
-"Hello, world."
